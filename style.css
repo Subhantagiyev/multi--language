@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1{
+    margin: 50px 20px 10px;
+    font-size: 40px;
+    color: #333;
+}
+select{
+    padding: 10px;
+    margin: 0 20px;
+}
+.content{
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+}
+.content h3 {
+    font-size: 60px;
+    color: #9a05f7;
+    margin-bottom: 20px;
+}
+.content p {
+   font-size: 20px;
+   width: 70%;
+   margin: auto; 
+}
